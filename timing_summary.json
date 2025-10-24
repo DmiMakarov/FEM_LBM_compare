@@ -1,0 +1,13 @@
+{
+  "reynolds_numbers": [
+    20,
+    40
+  ],
+  "performance_metrics": {
+    "average_fem_time": 10.40253484249115,
+    "average_lbm_time": 0.2171635627746582,
+    "average_speedup": 47.90668441652579,
+    "fastest_method": "LBM",
+    "most_efficient": "FEM"
+  }
+}

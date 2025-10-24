@@ -1,0 +1,29 @@
+# Core scientific computing
+numpy
+scipy
+matplotlib
+pandas
+
+# Mesh generation
+gmsh
+meshio
+
+# Additional utilities
+h5py
+vtk
+pyvista
+
+# FEM library
+scikit-fem
+
+# FEniCS for proper FEM Navier-Stokes
+# Option 1: Install FEniCS (older version) via pip
+fenics
+
+# Option 2: Use scikit-fem with proper implementation (easier to install)
+# scikit-fem is already included above
+
+# Development and testing
+pytest
+black
+flake8
